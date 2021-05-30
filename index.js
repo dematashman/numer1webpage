@@ -26,19 +26,10 @@ var brothername = prompt('please enter the name');
 if(sistername == 'tamara' && brothername == 'saed'){
   console.log(true);
 }
+for(var i = 0; i < myFamilyNames.length; i++) {
 
-  document.write('<img src="https://www.mcicon.com/wp-content/uploads/2021/03/Cat-03.jpg" />'){
+  document.write('<img src="https://www.mcicon.com/wp-content/uploads/2021/03/Cat-03.jpg" />')
     
   }
-
-
-
-
-
-
-
-
-
-
 
 
