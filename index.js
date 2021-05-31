@@ -26,10 +26,40 @@ var brothername = prompt('please enter the name');
 if(sistername == 'tamara' && brothername == 'saed'){
   console.log(true);
 }
-for(var i = 0; i < myFamilyNames.length; i++) {
+for(var i = 2; i < myFamilyNames.length; i++) {
 
   document.write('<img src="https://www.mcicon.com/wp-content/uploads/2021/03/Cat-03.jpg" />')
     
   }
+
+
+
+let num1 = 11;
+let num2 = 12;
+let num3 = 13;
+let num4 = 14;
+let num5 = 15;
+
+let total = num1 + num2 + num3 + num4 + num5;
+console.log(total);
+
+function sumTotal(n1, n2, n3, n4, n5){
+  let total1 = n1 + n2 + n3 + n4 + n5;
+  console.log(total);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
