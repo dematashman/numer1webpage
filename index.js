@@ -15,7 +15,7 @@ if(userName==="dema"){console.log("hi dema")
 console.log(myFamilyNames[2]);
 
 console.log(myFamilyNames.length);
-
+function images(){
 for(var i = 2; i < myFamilyNames.length; i++){
   console.log(myFamilyNames);
 }
@@ -31,6 +31,11 @@ for(var i = 2; i < myFamilyNames.length; i++) {
   document.write('<img src="https://www.mcicon.com/wp-content/uploads/2021/03/Cat-03.jpg" />')
     
   }
+
+}
+
+images();
+
 
 
 
